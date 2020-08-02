@@ -17,7 +17,7 @@ function adicionarAluno(nome){
     console.log("Aluno adicionado com sucesso")
 }
 
-function consoleLogAluno(value){
+function ConsoleLogAluno(value){
     console.log("-".repeat(20))
     console.log("Nome do Aluno: " + value.nome)
     console.log("Notas do aluno: " + value.notas)
